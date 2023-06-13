@@ -51,7 +51,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 Siga as etapas abaixo para executar o jogo em sua máquina local:
 
-1. Baixe os arquivos do jogo a partir [deste link](https://drive.google.com/drive/folders/1Zi0ylGFRzeevQxhpdqevYwZSo09Woefb).
+1. Baixe os arquivos do jogo a partir [deste link](https://drive.google.com/drive/folders/1UgtBISJhhGo537nAaBooCTNqZLWwNCIj?usp=sharing).
 2. Abra o projeto Unity utilizando a versão especificada nos requisitos.
 3. Explore os arquivos do jogo para entender a estrutura e os ativos utilizados.
 
@@ -64,10 +64,6 @@ Siga as instruções abaixo para jogar o jogo:
 3. Desvie dos obstáculos e tente alcançar a linha de chegada no menor tempo possível.
 4. Aproveite a experiência de corrida emocionante!
 
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Screenshots
 
