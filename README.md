@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Unity](https://img.shields.io/badge/Unity-2022.3.0f1-blue)](https://unity3d.com/get-unity/download/archive)
 
-![Gameplay](./images/gameplay.png)
+![Gameplay](imgs/geral.png.png)
 
 ## Descrição
 
@@ -64,7 +64,6 @@ Siga as instruções abaixo para jogar o jogo:
 3. Desvie dos obstáculos e tente alcançar a linha de chegada no menor tempo possível.
 4. Aproveite a experiência de corrida emocionante!
 
-![Controls](./images/controls.png)
 
 ## Licença
 
@@ -74,9 +73,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Aqui estão algumas capturas de tela do jogo:
 
-![Screenshot 1](./images/screenshot1.png)
-![Screenshot 2](./images/screenshot2.png)
-![Screenshot 3](./images/screenshot3.png)
+![Frente](imgs/frente.png.png)
+![Curva 1](imgs/curva1.png.png)
+![Curva 2](imgs/curva2.png.png)
 ```
 
 
