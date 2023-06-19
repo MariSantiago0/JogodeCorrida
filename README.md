@@ -67,7 +67,7 @@ Siga as instruções abaixo para jogar o jogo:
 
 ## Screenshots
 
-Aqui estão algumas capturas de tela do jogo:
+Aqui estão algumas capturas da tela do jogo:
 
 ![Frente](imgs/frente.png.png)
 ![Curva 1](imgs/curva1.png.png)
