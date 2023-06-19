@@ -20,7 +20,7 @@ Este repositório contém um jogo de corrida simples, onde o objetivo é control
 O movimento do carro é controlado pelo seguinte script:
 
 ```csharp
-public class CarMovement : MonoBehaviour  
+public class movimento : MonoBehaviour  
 { 
     public float speed = 15f; // Aumente esse valor para aumentar a velocidade do carro 
     public float rotationSpeed = 100f; 
